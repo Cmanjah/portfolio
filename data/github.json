@@ -1,0 +1,160 @@
+{
+  "stats": {
+    "repoCount": 15,
+    "starsTotal": 6,
+    "forksTotal": 1,
+    "lastUpdated": "2026-02-02T14:35:04.307Z"
+  },
+  "repos": [
+    {
+      "name": "pykale",
+      "full_name": "Cmanjah/pykale",
+      "html_url": "https://github.com/Cmanjah/pykale",
+      "description": "Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research, part of the 🔥PyTorch ecosystem. ⭐ Star to support our work!",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-01-09T08:59:49Z"
+    },
+    {
+      "name": "skills-introduction-to-github",
+      "full_name": "Cmanjah/skills-introduction-to-github",
+      "html_url": "https://github.com/Cmanjah/skills-introduction-to-github",
+      "description": "My clone repository",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-01-08T23:12:04Z"
+    },
+    {
+      "name": "NeuroSync_Player",
+      "full_name": "Cmanjah/NeuroSync_Player",
+      "html_url": "https://github.com/Cmanjah/NeuroSync_Player",
+      "description": "The NeuroSync Player allows for real-time streaming of facial blendshapes into Unreal Engine 5 using LiveLink - enabling facial animation from audio input.",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2024-12-09T11:52:08Z"
+    },
+    {
+      "name": "CO-Emissions-Prediction",
+      "full_name": "Cmanjah/CO-Emissions-Prediction",
+      "html_url": "https://github.com/Cmanjah/CO-Emissions-Prediction",
+      "description": null,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2024-11-05T16:28:33Z"
+    },
+    {
+      "name": "embedchain",
+      "full_name": "Cmanjah/embedchain",
+      "html_url": "https://github.com/Cmanjah/embedchain",
+      "description": "Personalising LLM Responses",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2024-07-12T21:51:20Z"
+    },
+    {
+      "name": "web-dev",
+      "full_name": "Cmanjah/web-dev",
+      "html_url": "https://github.com/Cmanjah/web-dev",
+      "description": "All web design, development, and training projects",
+      "language": "PHP",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "updated_at": "2024-04-09T19:23:51Z"
+    },
+    {
+      "name": "education-centre",
+      "full_name": "Cmanjah/education-centre",
+      "html_url": "https://github.com/Cmanjah/education-centre",
+      "description": "Education centre is an online learning hub with modern innovative features that enhances great learning outcome",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2024-04-03T23:34:32Z"
+    },
+    {
+      "name": "TIAGoGPT--Robot-assisted-interventions-",
+      "full_name": "Cmanjah/TIAGoGPT--Robot-assisted-interventions-",
+      "html_url": "https://github.com/Cmanjah/TIAGoGPT--Robot-assisted-interventions-",
+      "description": "This robotic interactive system, TIAGoGPT is an MSc research project on \"Exploring the Potentials of LLMs in TIAGo Robot-Assisted Interventions to Support Children with Social Skill Difficulties\". The project implements cutting-edge technologies to revolutionise the field of child support. We employed state-of-the-art large language models in robot",
+      "language": "Python",
+      "stargazers_count": 1,
+      "forks_count": 1,
+      "updated_at": "2024-04-03T22:51:37Z"
+    },
+    {
+      "name": "carbon-emission",
+      "full_name": "Cmanjah/carbon-emission",
+      "html_url": "https://github.com/Cmanjah/carbon-emission",
+      "description": null,
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2024-04-01T23:44:48Z"
+    },
+    {
+      "name": "Optimising-FED-with-Deep-Learning",
+      "full_name": "Cmanjah/Optimising-FED-with-Deep-Learning",
+      "html_url": "https://github.com/Cmanjah/Optimising-FED-with-Deep-Learning",
+      "description": "Optimising Facial Emotion Detection for Safe Driving in Semi-Autonomous Vehicles Using Deep Learning",
+      "language": "Jupyter Notebook",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "updated_at": "2023-11-18T18:36:20Z"
+    },
+    {
+      "name": "Keratoconus-Eye-Disease-Detection-using-Convolution-Neural-Network---CNN",
+      "full_name": "Cmanjah/Keratoconus-Eye-Disease-Detection-using-Convolution-Neural-Network---CNN",
+      "html_url": "https://github.com/Cmanjah/Keratoconus-Eye-Disease-Detection-using-Convolution-Neural-Network---CNN",
+      "description": "Keratoconus is a non-inflammatory eye condition in which the normally round dome-shaped clear window of the eye (cornea) progressively thins causing a cone-like bulge to develop. ",
+      "language": "Jupyter Notebook",
+      "stargazers_count": 2,
+      "forks_count": 0,
+      "updated_at": "2023-08-13T17:57:58Z"
+    },
+    {
+      "name": "keratoconus-detection",
+      "full_name": "Cmanjah/keratoconus-detection",
+      "html_url": "https://github.com/Cmanjah/keratoconus-detection",
+      "description": "\"Keratoconus is a progressive disease of the cornea which can lead to blindness as irregular astigmatism increases.\" Dataset available on - https://www.kaggle.com/datasets/elmehdi12/keratoconus-detection",
+      "language": "Jupyter Notebook",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "updated_at": "2023-07-26T00:04:17Z"
+    },
+    {
+      "name": "Human-Activity-Recognition-with-Postural-Transition-HARPT-Using-Smartphone-Sensors",
+      "full_name": "Cmanjah/Human-Activity-Recognition-with-Postural-Transition-HARPT-Using-Smartphone-Sensors",
+      "html_url": "https://github.com/Cmanjah/Human-Activity-Recognition-with-Postural-Transition-HARPT-Using-Smartphone-Sensors",
+      "description": null,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2023-04-07T09:59:57Z"
+    },
+    {
+      "name": "datasets",
+      "full_name": "Cmanjah/datasets",
+      "html_url": "https://github.com/Cmanjah/datasets",
+      "description": "Dataset Collection",
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2023-03-08T23:10:28Z"
+    },
+    {
+      "name": "andriod",
+      "full_name": "Cmanjah/andriod",
+      "html_url": "https://github.com/Cmanjah/andriod",
+      "description": null,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2023-02-06T23:13:48Z"
+    }
+  ]
+}
