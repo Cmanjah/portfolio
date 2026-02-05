@@ -1,11 +1,21 @@
 {
   "stats": {
-    "repoCount": 15,
-    "starsTotal": 6,
+    "repoCount": 16,
+    "starsTotal": 7,
     "forksTotal": 1,
-    "lastUpdated": "2026-02-02T14:35:04.307Z"
+    "lastUpdated": "2026-02-05T04:16:12.840Z"
   },
   "repos": [
+    {
+      "name": "portfolio",
+      "full_name": "Cmanjah/portfolio",
+      "html_url": "https://github.com/Cmanjah/portfolio",
+      "description": "Charles Anjah's  Portfolio",
+      "language": "HTML",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "updated_at": "2026-02-04T21:42:39Z"
+    },
     {
       "name": "pykale",
       "full_name": "Cmanjah/pykale",
